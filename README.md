@@ -5,8 +5,6 @@
 
 * This challenge was proposed by Alura + Oracle Next Education. It was the first challenge of the course.
 
-* The languages used for the challenge were: HTML, CSS and JavaScript.
-
 ### ✏️ Function:
 
 * The text encryptor and decryptor's main function is to turn a text into code, generating a secret. It can also turn a code back to text, revealing the secret. It is functional on computers, mobile phones and tablets.
@@ -22,7 +20,7 @@
       4. "o" to "ober"; <br>
       5. "u" to "ufat"; <br>
 
-### 💻Used technologies:
+### 💻Technologies used:
 
 * HTML
 * CSS
