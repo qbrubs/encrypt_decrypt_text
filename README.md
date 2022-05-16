@@ -25,4 +25,9 @@
 * HTML
 * CSS
 * JavaScript
+
+### 🔗Links: 
+
+* <a href="https://qbrubs.github.io/encrypt_decrypt_text/">Encryptor/Decryptor of Text</a>
+* <a href="https://linkedin.com/in/qbrubs/">LinkedIn</a>
     
