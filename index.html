@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <title>Encryptor and Decryptor</title>
+    <link rel="shortcut icon" href="images/logo.png" type="image/png"/>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/reset.css"/>
+
+
+</head>
+
+<body>
+    <main id="encrypt">
+      <section id="encryptor">
+        <div class="content">
+
+          <div class="title">
+            <img class="logo" src="images/logo.png" alt="logo of the page with a padlock">
+            <h1>Encryptor of text</h1>
+          </div>
+
+          <textarea id="textarea" name="textarea" type="text" placeholder="Encrypt your text..."></textarea>
+
+          <div class="info">
+            <span>
+                <img src="images/exclamation_mark.png" alt="Icon that warns lowercase letters"/>
+                <h4>Only lowercase!</h4>
+            </span>
+
+            <div class="buttons">
+
+              <button id="button" class="btn-encrypt" onclick="encrypter()">Encrypt</button>
+              <button id="button" class="btn-decrypt" onclick="decrypter()">Decrypt</button>
+            
+            </div>
+            
+          </div>
+        </div>
+      </section>
+
+      <section id="article">
+          <h4 id="result">Nothing was written...</h4>
+            
+          <p id="resultText"><img class="lupa" src="images/lupa.png" alt="Image of a magnifying glass">Write or paste the text you want to encrypt or decrypt</p> 
+            
+          <button id="button" class="btn-copy" onclick="copyText()">Copy</button>
+      </section>
+
+    </main>
+    
+    <footer id="footer">
+      <div class="copyright">
+        <p>&#169;Coded by <a href="https://www.linkedin.com/in/qbrubs/">Bruna Nascimento</a></p>
+      </div>
+    </footer>
+
+  </body>
+
+  <script src="js/script.js"></script>
+  <script src="js/copy_button.js"></script>
+
+</html>
