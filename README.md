@@ -3,7 +3,7 @@
 
 ### ℹ️ About this challenge:
 
-* This challenge was proposed by Alura + Oracle Next Education. It was the first challenge of the course.
+* This challenge was proposed by Oracle ONE Next Education + Alura. It was the first challenge of the course.
 
 ### ✏️ Function:
 
