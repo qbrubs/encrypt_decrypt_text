@@ -31,3 +31,10 @@
 * <a href="https://qbrubs.github.io/encrypt_decrypt_text/">Encryptor/Decryptor of Text</a>
 * <a href="https://linkedin.com/in/qbrubs/">LinkedIn</a>
     
+## 📷Images:
+
+![pc](https://user-images.githubusercontent.com/103202544/168694157-c98a69ed-7e10-45ac-9483-cecd9c8c9524.png)
+![pc_1](https://user-images.githubusercontent.com/103202544/168694171-0c70d784-ee01-4316-b5eb-555e9746a92a.png)
+![mobile_1](https://user-images.githubusercontent.com/103202544/168694191-5dbfbd84-e9e0-4a90-9532-dfa06e6a6cb3.png)
+![mobile](https://user-images.githubusercontent.com/103202544/168694211-39464a20-d144-47ab-9c96-5ac12dc85954.png)
+![ipad](https://user-images.githubusercontent.com/103202544/168694219-342da74b-489b-4c9b-83d6-c9e056d84e87.png)
